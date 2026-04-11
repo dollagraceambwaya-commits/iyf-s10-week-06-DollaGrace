@@ -23,14 +23,15 @@ It demonstrates how to handle asynchronous operations in JavaScript using **call
 
 
 ## Project Structure
+
 iyf-s10-week-06-dollagraceambwaya-commits
 ├── index.html              # Async tasks (Lesson 11 & 12)
 ├── main.js                 # Async tasks logic
 ├── README.md               # Documentation
-├── weather-dashboard/      # Mini-project folder
-│   ├── index.html          # Weather Dashboard HTML
-│   ├── styles.css          # Weather Dashboard CSS
-│   └── app.js              # Weather Dashboard JS
+└── weather-dashboard/      # Mini-project folder
+├── index.html          # Weather Dashboard HTML
+├── styles.css          # Weather Dashboard CSS
+└── app.js              # Weather Dashboard JS
 ---
 
 
