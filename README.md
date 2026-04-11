@@ -16,6 +16,7 @@ It demonstrates how to handle asynchronous operations in JavaScript using **call
 ---
 
 ## Project Structure
+
 iyf-s10-week-06-dollagraceambwaya-commits
 ├── index.html              # Async tasks (Lesson 11 & 12)
 ├── main.js                 # Async tasks logic
