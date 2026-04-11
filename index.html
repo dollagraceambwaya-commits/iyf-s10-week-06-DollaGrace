@@ -6,6 +6,30 @@
     <title>Document</title>
 </head>
 <body>
+    <!-- Create a form that submits a new post and displays the result -->
+     <div id="app">
+        <h1>Create a New Post</h1>
+        <form id="postForm">
+            <input type="text" id="title" placeholder="Post Title" required/>
+            <textarea id="body" placeholder="Post Content" required></textarea>
+            <input type="number" id="userId" placeholder="User ID" required/>
+            <button type="submit">Submit</button>
+        </form>
+        <div id="result"></div>
+     </div>
+
+     <select id="sort">
+    <option value="asc">Sort A–Z</option>
+    <option value="desc">Sort Z–A</option>
+</select>
+
+<select id="cityFilter">
+    <option value="">All Cities</option>
+    <option value="Nairobi">Nairobi</option>
+    <option value="Nakuru">Nakuru</option>
+    <!-- Add more cities dynamically -->
+</select>
+
     <script src="main.js"></script>
 </body>
 </html>
