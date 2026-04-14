@@ -1,5 +1,10 @@
 # Week 6: Asynchronous JavaScript
 
+## Author
+- **Name:** Dolla Grace Ambwaya
+- **GitHub:** [@dollagraceambwaya-commits](https://github.com/dollagraceambwaya-commits)
+- **Date:** 31 March 2026
+
 ## Overview
 This project is part of **Season 10 – Week 6 Asynchronous JavaScript**.  
 It demonstrates how to handle asynchronous operations in JavaScript using **callbacks, promises, async/await**, and working with **APIs** to build a weather dashboard.
